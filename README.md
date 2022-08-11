@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Goldjay94
-- 👀 I’m interested in learning software engineering programme from the scratch 
+- 👀 I’m interested in coding, editing, software engineering programme from the scratch 
 - 🌱 I’m currently learning software engineering programme with ALx
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on coding and programming
 - 📫 How to reach me, you can reach me via my twitter @GenevieveEzeh
 - You can also reach me on my Telephone number +2348130192684
 
