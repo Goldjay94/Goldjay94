@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Goldjay94
-- 👀 I’m interested in coding, editing, software engineering programme from the scratch 
+- 👀 I’m interested in coding, editing, software engineering programme
 - 🌱 I’m currently learning software engineering programme with ALx
 - 💞️ I’m looking to collaborate on coding and programming
 - 📫 How to reach me, you can reach me via my twitter @GenevieveEzeh
