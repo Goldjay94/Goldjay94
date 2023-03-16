@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Chioma Maryjane Ezeibekwe
 - 👩‍💼 Pronouns: she/her
-- 🌱 I’m currently learning Python, Html, Nodejs.
+- 🌱 I’m currently learning Python, Html,CSS, JavaScript.
 - 💞️ I’m looking forward to collaborate on coding and programming
 - 📁 I’m open to: Jobs, Internships, trainings & Open source projects
 - ⚡ Fun fact: Lover of Nature, trying new things & Travel✈️.
-- 📫 You can contact me by DM on [Email](mailto:genevieveezeh786@gmail.com) | [Twitter](https://twitter.com/GenevieveEzeh) | [Linkedin](https://linkedin.com/maryjaneezeibekwe).
+- 📫 You can contact me by DM on [Email](mailto:genevieveezeh786@gmail.com) | [Twitter](https://twitter.com/GenevieveEzeh).
 
 <!---
 Goldjay94/Goldjay94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
