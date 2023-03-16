@@ -1,3 +1,6 @@
+## <div align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I’m Chioma Maryjane Ezeibekwe</div>
+
+---
 - 👋 Hi, I’m Chioma Maryjane Ezeibekwe
 - 👩‍💼 Pronouns: she/her
 - 🌱 I’m currently learning Python, Html,CSS, JavaScript.
@@ -12,6 +15,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ---
+
 ### Connect with me: 
 <div align="center">
 <a href="https://twitter.com/GenevieveEzeh" target="_blank">
@@ -22,6 +26,7 @@ You can click the Preview link to take a look at your changes.
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
+
 ---
 
 ### Github Stats:
